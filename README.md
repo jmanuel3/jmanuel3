@@ -1,7 +1,9 @@
 # 👋 Hi, I'm José Manuel Carrasco!
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=jmanuel3&label=Profile%20Views&color=0e75b6&style=flat)
+[Profile Views](https://komarev.com/ghpvc/?username=jmanuel3&label=Profile%20Views&color=0e75b6&style=flat)
 </div>
+
+
 ## 🚀 My Tech Journey: From Legal Analysis to Web Development
 *“I traded legal briefs for code reviews, court rooms for terminals, and discovered my true passion in building digital solutions that actually solve real problems.”*
 ### 📖 The Story
@@ -16,14 +18,16 @@ Evolved to Astro for SEO-optimized applications
 ```
 **What this progression taught me**: **Adaptability is my superpower**. I don't just learn technologies—I understand their **purpose and evolution**, which makes me excellent at choosing the right tool for each project.
 ---
+
 ## 💻 What I'm Building Right Now
 <div align="center">
+     
 ### 🔥 Featured Projects
 <a href="https://github.com/jmanuel3/FurbitAll-BackEnd">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jmanuel3&repo=FurbitAll-BackEnd&theme=dark" alt="FurbitAll Backend" />
+  <img src="https://drive.google.com/file/d/1UBln8ClizH9JXoB10M6V6BmF6G8JBZll/view?usp=sharing" alt="FurbitAll Backend" />
 </a>
 <a href="https://github.com/jmanuel3/FurbitAll-FrontEnd">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jmanuel3&repo=FurbitAll-FrontEnd&theme=dark" alt="FurbitAll Frontend" />
+  <img src="https://drive.google.com/file/d/1UBln8ClizH9JXoB10M6V6BmF6G8JBZll/view?usp=sharing" alt="FurbitAll Frontend" />
 </a>
 <a href="https://github.com/jmanuel3/BorsGaming">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jmanuel3&repo=BorsGaming&theme=dark" alt="BorsGaming" />
@@ -32,21 +36,25 @@ Evolved to Astro for SEO-optimized applications
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jmanuel3&repo=Ledel-Project&theme=dark" alt="Ledel Project" />
 </a>
 </div>
+
+### 🏥 **Ledel** - Medical Aesthetics Center Management
+- **What it does**: Comprehensive web application for dermatology center operations
+- **Technologies**: Astro, Node.js, MongoDB, Tailwind CSS
+- **Special features**: HIPAA-compliant data handling, SEO optimization
+- **Status**: In development - showcasing advanced frontend architecture
+
 ### 🌟 **FurbitAll** - Full-Stack E-commerce & Sports Booking Platform
 - **What it does**: Complete solution for sports facility management with booking system and e-commerce
 - **My role**: Full-stack developer from concept to deployment
 - **Technologies**: React, Node.js, MongoDB, Bootstrap
 - **Challenge**: Integrating booking logic with payment processing
 - **Proud moment**: Built a complete user authentication and role-based access system
+
 ### 🎮 **BorsGaming** - Gaming Platform
 - **What it does**: Interactive gaming experience with modern web technologies
 - **Technologies**: JavaScript, React ecosystem
 - **Learning focus**: User engagement and interactive design patterns
-### 🏥 **Ledel** - Medical Aesthetics Center Management
-- **What it does**: Comprehensive web application for dermatology center operations
-- **Technologies**: Astro, Node.js, MongoDB, Tailwind CSS
-- **Special features**: HIPAA-compliant data handling, SEO optimization
-- **Status**: In development - showcasing advanced frontend architecture
+
 ---
 ## 🛠️ My Current Tech Arsenal
 <div align="center">
