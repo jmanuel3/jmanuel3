@@ -1,13 +1,11 @@
 # 👋 Hi, I'm José Manuel Carrasco!
-<div align="center">
-[Profile Views](https://komarev.com/ghpvc/?username=jmanuel3&label=Profile%20Views&color=0e75b6&style=flat)
-</div>
 
 
 ## 🚀 My Tech Journey: From Legal Analysis to Web Development
 *“I traded legal briefs for code reviews, court rooms for terminals, and discovered my true passion in building digital solutions that actually solve real problems.”*
 ### 📖 The Story
 After working as a **Legal Analyst** and managing teams in **international hospitality**, I realized I wanted to create things, not just analyze them. My journey into web development wasn't just a career change—it was a transformation of mindset: from interpreting existing systems to **building new ones**.
+
 ### 🛠️ My Evolution: The Tech Stack Story
 ```
 Basic JavaScript concepts
@@ -24,16 +22,13 @@ Evolved to Astro for SEO-optimized applications
      
 ### 🔥 Featured Projects
 <a href="https://github.com/jmanuel3/FurbitAll-BackEnd">
-  <img src="https://drive.google.com/file/d/1UBln8ClizH9JXoB10M6V6BmF6G8JBZll/view?usp=sharing" alt="FurbitAll Backend" />
+ 
 </a>
 <a href="https://github.com/jmanuel3/FurbitAll-FrontEnd">
-  <img src="https://drive.google.com/file/d/1UBln8ClizH9JXoB10M6V6BmF6G8JBZll/view?usp=sharing" alt="FurbitAll Frontend" />
 </a>
 <a href="https://github.com/jmanuel3/BorsGaming">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jmanuel3&repo=BorsGaming&theme=dark" alt="BorsGaming" />
 </a>
 <a href="https://github.com/jmanuel3/Ledel-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jmanuel3&repo=Ledel-Project&theme=dark" alt="Ledel Project" />
 </a>
 </div>
 
@@ -55,9 +50,9 @@ Evolved to Astro for SEO-optimized applications
 - **Technologies**: JavaScript, React ecosystem
 - **Learning focus**: User engagement and interactive design patterns
 
----
 ## 🛠️ My Current Tech Arsenal
 <div align="center">
+     
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -67,6 +62,7 @@ Evolved to Astro for SEO-optimized applications
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 </div>
+
 ### 🎯 **What I'm Learning Next**
 - TypeScript for type safety
 - Next.js for production-ready applications
@@ -91,14 +87,7 @@ International experience in **Australia** and **bilingual capabilities** (Spanis
 🤝 Collaboration: Proven team leadership from hospitality management
 💪 Resilience: Successfully navigated career transition with discipline
 ```
----
-## 📊 GitHub Stats
-<div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmanuel3&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmanuel3&layout=compact&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=jmanuel3&theme=dark)
-</div>
----
+
 ## 🤝 Let's Connect!
 <div align="center">
 <a href="mailto:josem199806@gmail.com">
@@ -111,12 +100,13 @@ International experience in **Australia** and **bilingual capabilities** (Spanis
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 </div>
----
+
 <div align="center">
+     
 ### 💬 Open to Opportunities
 **Currently seeking**: Full-time web developer positions (Remote-first, Spain flexible)
 **What I bring**: Fresh perspective, proven adaptability, real project experience, and genuine passion for building great software.
 **Let's build something amazing together!**
----
+
 *Last updated: November 2025*
 </div>
