@@ -5,7 +5,8 @@ https://qwce4ysiu7vy.space.minimax.io
 ## 🚀 My Tech Journey: From Legal Analysis to Web Development
 *“I traded legal briefs for code reviews, court rooms for terminals, and discovered my true passion in building digital solutions that actually solve real problems.”*
 ### 📖 The Story
-After working as a **Legal Analyst** and managing teams in **international hospitality**, I realized I wanted to create things, not just analyze them. My journey into web development wasn't just a career change—it was a transformation of mindset: from interpreting existing systems to **building new ones**.
+After working as a **Legal Analyst** and managing teams in **international hospitality**, I realized I wanted to create things, not just analyze them. My journey into web development wasn't just a career change, it was a transformation of mindset: from interpreting existing systems to **building new ones**.
+My **evolution** didn't stop at building; it extended to Quality Assurance. At eFrontiers, I transitioned from creating code to breaking it systematically. I learned that a product is only as good as its weakest edge case, managing the full bug lifecycle and achieving a **40% increase in early defect detection**.
 
 ### 🛠️ My Evolution: The Tech Stack Story
 ```
@@ -15,7 +16,7 @@ Mastered React + Node.js + MongoDB (MERN)
      ↓
 Evolved to Astro for SEO-optimized applications
 ```
-**What this progression taught me**: **Adaptability is my superpower**. I don't just learn technologies—I understand their **purpose and evolution**, which makes me excellent at choosing the right tool for each project.
+**What this progression taught me**: **Adaptability is my superpower**. I don't just learn technologies, I understand their **purpose and evolution**, which makes me excellent at choosing the right tool for each project.
 ---
 
 ## 💻 What I'm Building Right Now
@@ -33,9 +34,9 @@ Evolved to Astro for SEO-optimized applications
 </a>
 </div>
 
-### 🏥 **Ledel** - Medical Aesthetics Center Management
+### 🏥 **Ledel** - Dermoesthetic Center Management
 - **What it does**: Comprehensive web application for dermatology center operations
-- **Technologies**: Astro, Node.js, MongoDB, Tailwind CSS
+- **Technologies**: Astro, Node.js, MongoDB, CSS
 - **Special features**: HIPAA-compliant data handling, SEO optimization
 - **Status**: In development - showcasing advanced frontend architecture
 
@@ -51,6 +52,13 @@ Evolved to Astro for SEO-optimized applications
 - **Technologies**: JavaScript, React ecosystem
 - **Learning focus**: User engagement and interactive design patterns
 
+### 🔍 QA & Testing Expertise
+🧪 **The Quality Mindset**
+I don't just write code; I ensure it's production-ready and compliant. My background as a QA Tester gives me a unique advantage in:
+- **Systematic Manual Testing**: Identifying 15-20 critical defects weekly.
+- **Bug Lifecycle Management**: Expertly documenting and prioritizing issues in Agile/Scrum environments.
+- **Root Cause Analysis**: Using my Full Stack knowledge to trace front-end bugs back to REST API or Database inconsistencies.
+
 ## 🛠️ My Current Tech Arsenal
 <div align="center">
      
@@ -62,6 +70,9 @@ Evolved to Astro for SEO-optimized applications
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Testing](https://img.shields.io/badge/Testing-Manual_&_QA-green?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Agile](https://img.shields.io/badge/Methodology-Agile_/_Scrum-blue?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![APIs](https://img.shields.io/badge/Tools-REST_APIs-orange?style=for-the-badge&logo=postman&logoColor=white)
 </div>
 
 ### 🎯 **What I'm Learning Next**
