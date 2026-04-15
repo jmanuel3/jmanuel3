@@ -1,12 +1,9 @@
 # 👋 Hi, I'm José Manuel Carrasco!
-## Portfolio
-https://qwce4ysiu7vy.space.minimax.io
 
 ## 🚀 My Tech Journey: From Legal Analysis to Web Development
 *“I traded legal briefs for code reviews, court rooms for terminals, and discovered my true passion in building digital solutions that actually solve real problems.”*
 ### 📖 The Story
 After working as a **Legal Analyst** and managing teams in **international hospitality**, I realized I wanted to create things, not just analyze them. My journey into web development wasn't just a career change, it was a transformation of mindset: from interpreting existing systems to **building new ones**.
-My **evolution** didn't stop at building; it extended to Quality Assurance. At eFrontiers, I transitioned from creating code to breaking it systematically. I learned that a product is only as good as its weakest edge case, managing the full bug lifecycle and achieving a **40% increase in early defect detection**.
 
 ### 🛠️ My Evolution: The Tech Stack Story
 ```
@@ -51,13 +48,6 @@ Evolved to Astro for SEO-optimized applications
 - **What it does**: Interactive gaming experience with modern web technologies
 - **Technologies**: JavaScript, React ecosystem
 - **Learning focus**: User engagement and interactive design patterns
-
-### 🔍 QA & Testing Expertise
-🧪 **The Quality Mindset**
-I don't just write code; I ensure it's production-ready and compliant. My background as a QA Tester gives me a unique advantage in:
-- **Systematic Manual Testing**: Identifying 15-20 critical defects weekly.
-- **Bug Lifecycle Management**: Expertly documenting and prioritizing issues in Agile/Scrum environments.
-- **Root Cause Analysis**: Using my Full Stack knowledge to trace front-end bugs back to REST API or Database inconsistencies.
 
 ## 🛠️ My Current Tech Arsenal
 <div align="center">
