@@ -27,7 +27,7 @@ Mobile-first, offline-ready PWA to track strength training, with automatic weigh
 - Lighthouse mobile: 100 Performance · 100 Accessibility · 100 SEO
 - Security headers (CSP, HSTS) on Cloudflare Pages
 
-### 💆 Ledel — client project · [code](https://github.com/jmanuel3/Ledel-Project)
+### 💆 Ledel — client project · (https://github.com/jmanuel3/Ledel-Project)
 Production website for a dermo-aesthetics clinic, built with **Astro, TypeScript and MongoDB**. SEO-optimized and serving real customers.
 
 ### ⚽ FurbitAll — [frontend](https://github.com/jmanuel3/FurbitAll-FrontEnd) · [backend](https://github.com/jmanuel3/FurbitAll-Backend)
