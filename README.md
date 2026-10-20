@@ -1,10 +1,12 @@
 # Hi, I'm José Manuel Carrasco 👋
 
+**Portfolio:** [jmanuelcarrasco.com](https://jmanuelcarrasco.com)
+
 Full-stack web developer based in **Copenhagen, Denmark**. I build and ship production web apps for real clients with **TypeScript, React, Astro and Node.js**.
 
 Before software I worked as a mortgage analyst in the financial sector, and I hold a Law degree and a Master's in Legal Practice. That shows in how I work: careful with requirements and documentation, clear with clients, used to owning a project end to end.
 
-📍 Copenhagen, Denmark · 🇪🇸 Spanish (native) · 🇬🇧 English (professional) · Open to full-stack / frontend roles (on-site, hybrid or remote)
+📍 Copenhagen, Denmark · 🇪🇸 Spanish (native) · 🇬🇧 English (full professional, C1) · Open to full-stack / frontend roles (on-site, hybrid or remote)
 
 ---
 
@@ -18,17 +20,18 @@ Bilingual (ES/EN) platform for an international real estate investment advisory 
 - Diagnosed and fixed a production email failure (IPv6 network limits on the host) by migrating from SMTP to the Resend API
 - PR-based Git workflow and Conventional Commits
 
-*Client code is private.*
+*Client code is private. Case study on [my portfolio](https://jmanuelcarrasco.com/#projects).*
 
 ### 🏋️ LIFTR — [live demo](https://liftr-7u9.pages.dev) · [code](https://github.com/jmanuel3/liftr)
 Mobile-first, offline-ready PWA to track strength training, with automatic weight progression.
 - Vanilla JS, no framework, no build step, local-first data
 - E2E tests with Playwright across 4 viewports, running in CI (GitHub Actions)
-- Lighthouse mobile: 100 Performance · 100 Accessibility · 100 SEO
+- Lighthouse: 100 Accessibility · 100 Best Practices · 100 SEO
+- Built with an AI assistant: I set the product direction and an AI wrote most of the code, with E2E tests as the safety net
 - Security headers (CSP, HSTS) on Cloudflare Pages
 
-### 💆 Ledel — client project · [ledeldermoestetica.com](https://ledeldermoestetica.com) · [frontend](https://github.com/jmanuel3/Ledel---Frontend) · [backend](https://github.com/jmanuel3/Ledel---Backend)
-Production website for a dermo-aesthetics clinic, built with **Astro, TypeScript and MongoDB**. SEO-optimized and serving real customers.
+### 💆 Ledel — client project
+Built and delivered the production website for a dermo-aesthetics clinic with **Astro, TypeScript and MongoDB**, including SEO and the domain migration. Client code is private.
 
 ### ⚽ FurbitAll — [frontend](https://github.com/jmanuel3/FurbitAll-FrontEnd) · [backend](https://github.com/jmanuel3/FurbitAll-Backend)
 Full-stack MERN platform: REST API, e-commerce, sports court booking system, admin panel with full CRUD (products, courts, users), and authentication with role-based access.
